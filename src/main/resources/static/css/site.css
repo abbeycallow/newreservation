@@ -1,6 +1,11 @@
 body{
     padding-top: 70px;
     padding-bottom: 60px;
+    background-color: darkseagreen;
+}
+
+div.h1{
+    text-align: center;
 }
 
 footer{
